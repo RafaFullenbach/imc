@@ -1,6 +1,9 @@
 # Imc
 
 The goal of the project is to learn about basic Javascript.
+
+https://github.com/RafaFullenbach/imc/assets/63618616/464cc996-90b2-4752-a9d0-a53761020521
+
 ## Apprenticeship
 
 - DOM manipulation;
